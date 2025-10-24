@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Houssam Nahli  
 
-<!--
-**HOUSSAM-NAHLY/HOUSSAM-NAHLY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student passionate about software development and AI.  
+🚀 I love building desktop & web apps using **Java**, **PHP**, and **Python**.  
 
-Here are some ideas to get you started:
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/username/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack:
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+🧠 "Learning never stops — I keep improving every day!"
